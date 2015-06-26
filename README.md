@@ -8,4 +8,4 @@ BioRxiv preprint manuscript:
 #### R code to generate A/B compartments:
 ------------
 
-[compartments()](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) is part of the [minfi](https://github.com/kasperdanielhansen/minfi) package.
+The main function is [compartments()](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) and is implemented in the [minfi](https://github.com/kasperdanielhansen/minfi) package.
