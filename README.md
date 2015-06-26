@@ -10,7 +10,7 @@ BioRxiv preprint manuscript:
 
 The main function is [compartments()](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) and is implemented in the [minfi](https://github.com/kasperdanielhansen/minfi) package.
 
-#### R code to preprocess and generate A/B compartments from DNase data:
+#### R code to preprocess and generate A/B compartments from DNase-Seq data:
 ------------
 
 
