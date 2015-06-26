@@ -8,7 +8,7 @@ Soon hopefully.
 
 #### Preprint
 ------------
-THe BioRxiv preprint version can be found here: 
+BioRxiv preprint manuscript: 
 [Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data](http://biorxiv.org/content/early/2015/06/03/019000)
 
 #### R code to generate A/B compartments:
