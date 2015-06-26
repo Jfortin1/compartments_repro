@@ -2,9 +2,6 @@
 
 Authors: [Jean-Philippe Fortin](mailto:zerbino@ebi.ac.uk) and [Kasper Daniel Hansen](mailto:khansen@jhsph.edu)
 
-
-#### Preprint
-------------
 BioRxiv preprint manuscript: 
 [Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data](http://biorxiv.org/content/early/2015/06/03/019000)
 
