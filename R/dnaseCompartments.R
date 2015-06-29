@@ -5,7 +5,13 @@ library(BSgenome.Hsapiens.UCSC.hg19)
 
 
 
-
+# bw.files: character vector of the bigWig files:
+# chr: which chromosome
+# resolution: resolution of the bins in bases (100 kbs by default)
+# method: method for correlation 
+# normalize: should the DNase scores be normalized for library size?
+# gcCorrection: should GC correction of the DNase scores be performed?
+# keep: should the correlation matrix be included in the ouptput?
 dnaseCompartments <- function(bw.files, chr="chr22", resolution = 100*1000,
  method = c("pearson", "spearman"), normalize = TRUE, gcCorrection = TRUE,
   keep=TRUE, verbose = TRUE){
