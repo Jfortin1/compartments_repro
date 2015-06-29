@@ -11,4 +11,5 @@ The main function is [compartments()](https://github.com/kasperdanielhansen/minf
 
 ##### R code to preprocess and generate A/B compartments from DNase-Seq data:
 
+The main function is [dnaseCompartments()](https://github.com/Jfortin1/compartments_repro/blob/master/R/dnaseCompartments.R) and is implemented in R.
 
