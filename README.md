@@ -17,7 +17,7 @@ From DNase-Seq data: [dnaseCompartments.R](https://github.com/Jfortin1/compartme
 
 ##### Data: 
 
-[A/B compartments estimated for TCGA data](https://github.com/Jfortin1/TCGA_AB_Compartments)
+[A/B compartments estimated from TCGA data](https://github.com/Jfortin1/TCGA_AB_Compartments)
 
 
 
