@@ -5,11 +5,11 @@ Authors: [Jean-Philippe Fortin](mailto:zerbino@ebi.ac.uk) and [Kasper Daniel Han
 BioRxiv preprint manuscript: 
 [Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data](http://biorxiv.org/content/early/2015/06/03/019000)
 
-##### R code to generate A/B compartments from:
+##### R scripts to generate A/B compartments:
 
-450k methylation data: [compartments()](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) 
+From 450k methylation data: [compartments()](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) 
 
-DNase-Seq data: [dnaseCompartments()](https://github.com/Jfortin1/compartments_repro/blob/master/R/dnaseCompartments.R) 
+From DNase-Seq data: [dnaseCompartments()](https://github.com/Jfortin1/compartments_repro/blob/master/R/dnaseCompartments.R) 
 
-Single-cell ATAC-seq data:
+From single-cell ATAC-seq data:
 
