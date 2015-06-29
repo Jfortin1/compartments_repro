@@ -18,7 +18,7 @@ BioRxiv preprint manuscript:
 
 ##### Data: 
 
-[A/B compartments estimated from TCGA](https://github.com/Jfortin1/TCGA_AB_Compartments)
+* [A/B compartments estimated from TCGA](https://github.com/Jfortin1/TCGA_AB_Compartments)
 
 
 
