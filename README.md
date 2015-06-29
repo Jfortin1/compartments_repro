@@ -11,5 +11,5 @@ From 450k methylation data: [compartments()](https://github.com/kasperdanielhans
 
 From DNase-Seq data: [dnaseCompartments()](https://github.com/Jfortin1/compartments_repro/blob/master/R/dnaseCompartments.R) 
 
-From single-cell ATAC-seq data:
+
 
