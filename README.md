@@ -15,7 +15,9 @@ From 450k methylation data: [compartments.R](https://github.com/kasperdanielhans
 
 From DNase-Seq data: [dnaseCompartments.R](https://github.com/Jfortin1/compartments_repro/blob/master/R/dnaseCompartments.R) 
 
-##### A/B compartments estimated for TCGA data:
+##### Data: 
+
+[A/B compartments estimated for TCGA data](https://github.com/Jfortin1/TCGA_AB_Compartments)
 
 
 
