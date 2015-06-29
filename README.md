@@ -7,11 +7,11 @@ BioRxiv preprint manuscript:
 
 ##### R code to generate A/B compartments from 450k methylation data:
 
-The main function is [compartments()](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) and is implemented in the [minfi](https://github.com/kasperdanielhansen/minfi) package.
+     The main function is [compartments()](https://github.com/kasperdanielhansen/minfi/blob/master/R/compartments.R) and is implemented in the [minfi](https://github.com/kasperdanielhansen/minfi) package.
 
 ##### R code to preprocess and generate A/B compartments from DNase-Seq data:
 
-The main function is [dnaseCompartments()](https://github.com/Jfortin1/compartments_repro/blob/master/R/dnaseCompartments.R) 
+    The main function is [dnaseCompartments()](https://github.com/Jfortin1/compartments_repro/blob/master/R/dnaseCompartments.R) 
 
 ##### R code to preprocess and generate A/B compartments from single-cell ATAC-seq data:
 
