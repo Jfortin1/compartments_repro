@@ -1,9 +1,8 @@
-![alt tag](https://raw.github.com/jfortin1/TCGA_AB_Compartments/master/figures/try.png)
-
 ### Reconstructing A/B compartments as revealed by Hi-C using long-range correlations in epigenetic data
 
 Authors: [Jean-Philippe Fortin](mailto:zerbino@ebi.ac.uk) and [Kasper Daniel Hansen](mailto:khansen@jhsph.edu)
 
+![alt tag](https://raw.github.com/jfortin1/TCGA_AB_Compartments/master/figures/try.png)
 --------
 
 
